@@ -1,0 +1,44 @@
+HTML
+Primero necesitamos crear con el bloc de notas un archivo HTML (Nombre del archivo:"index")
+Luego creamos una carpeta para guardar el archivo HTML
+Abrimos la Carpeta en Visual Studio
+Señalar a HTML que es cada cosa (Imagen, Video, Encabezado, parrafo, etc.)
+ETIQUETAS
+<title> </title> Titulo de la pagina web (Parte de arriba no dentro de la página)
+<p> </p> "Paragraph" sirve para párrafos
+<hX> </hX> "Heading" sirve para marcar encabezados X= a tipo de encabezado ej.= h1= encabezado, h2= sub encabezado, h3
+<!DOCTYPE html> nos permite hacer saber a el codigo que trabajamos en la version mas reciente de html
+<html> aqui van las etiquetas ordenadas por jerarquia
+<head> la cabecera de la pag web
+<body> lo que va dentro de la pag web
+Atributo de las etiquetas
+lang= lenguaje
+lang="(idioma ej: es, en, etc.)" va dentro de html
+<meta  />: (esta no cierra) da mas informacion para encontrar la pagina
+name= para dar el tipo de etiqueta
+content= el contenido de la etiqueta
+name="description" =para dar la descripcion de tu pagina
+name="author" = para dar el nombre del autor
+name="keywords" = para señalar palabras claves para poder encontrar tu página
+charset="utf-8"= ??????????
+<header>= titulo (señalar)
+<nav>= navegacion
+<ul>= unorder list
+<li>= list item
+<section>= seccion
+<article>= articulo
+<time>= tiempo
+<aside>= contenido lateral
+<footer> pie de página
+<hgroup> darle otra jerarquia
+<blockquote> citas, o no se
+a = para enlaces; href= hiperenlaces
+adress= direccion (atributo)
+img= para imagenes xdxdxd 
+<img src="(nombre del archivo; o enlace)" /> = para poner imagenes
+<small> = hacer pequeña la letra
+<cite> = citas
+<span> = NO CAMBIA solo sirve para alterar con CSS
+
+https://www.w3schools.com/html/default.asp
+
